@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.myhomerulzzz.homerulebreaker",
+    "sha256_cert_fingerprints":
+    ["15:E8:45:96:3C:4F:BC:18:8C:B9:41:01:3C:AA:34:EA:A1:2F:33:73:8A:C6:B2:59:DA:1A:87:BB:F4:BA:5C:03"]
+  }
+}]
